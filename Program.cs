@@ -31,7 +31,7 @@ namespace htel
                 Console.WriteLine("Enter Customer Name:");
                 string Name = Console.ReadLine();
                 name[i] = Name;
-                Console.WriteLine("Enter Number of night:");
+                Console.WriteLine("Enter Number of days:");
                 int NumberOfnight = 0;
 
                 while (true)
