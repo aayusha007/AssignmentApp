@@ -1,0 +1,15 @@
+C:\KOI\AssignmentApp\AssignmentApp\bin\Debug\net6.0\AssignmentApp.exe
+C:\KOI\AssignmentApp\AssignmentApp\bin\Debug\net6.0\AssignmentApp.deps.json
+C:\KOI\AssignmentApp\AssignmentApp\bin\Debug\net6.0\AssignmentApp.runtimeconfig.json
+C:\KOI\AssignmentApp\AssignmentApp\bin\Debug\net6.0\AssignmentApp.dll
+C:\KOI\AssignmentApp\AssignmentApp\bin\Debug\net6.0\AssignmentApp.pdb
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.csproj.AssemblyReference.cache
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfo.cs
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.dll
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\refint\AssignmentApp.dll
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.pdb
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\AssignmentApp.genruntimeconfig.cache
+C:\KOI\AssignmentApp\AssignmentApp\obj\Debug\net6.0\ref\AssignmentApp.dll
